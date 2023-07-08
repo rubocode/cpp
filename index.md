@@ -1,4 +1,4 @@
-> [ruboware](/) &bull; [programming](/progamming)
+> [ruboware](/) &bull; [programming](/programming)
 > &bull; Work in progress...
 
 ![banner](photos/banner.png)
