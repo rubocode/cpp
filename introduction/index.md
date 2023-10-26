@@ -16,4 +16,4 @@ Initial standardization was done in 1998, followed by updates in 2003 and 2011. 
 
 As the language has evolved to be rather complex Stroustrups books became huge blocks of paper and until he got tired of writing them (C++11 was the last one).  The he started a series calles A Tour of C++ with each ne standard every three years.
 
-It is still useful to understand the essence of the language in a way that an individual can grasp it and confidently program in it.  This guide is my attempt to capture the essence of the language in order that all the root elements are understood.  If I could capture to a stable perspective concisely, I would have succeeded.  What is captured and what is left out will be art, not technology.  Enjoy!
+It is still useful to understand the essence of the language in a way that an individual can grasp it and confidently program in it.  This guide is my attempt to capture the essence of the language in order that all the root elements are understood.  If I could capture a stable perspective concisely, I would have succeeded.  What is captured and what is left out will be art, not technology.  Enjoy!
