@@ -3,8 +3,8 @@
 ![banner](/cpp/photos/banner.png)
 
 ## Introduction
-> Great designs come from great designers, not from great design processes.  
-> **Frederick P. Brooks, Jr.**
+> It is impossible for a man to learn what he thinks he already knows.  
+> **Epictetus**
 
 * [Background](background)
 * [Elements](elements)
