@@ -1,4 +1,4 @@
-> [home](/) &bull;
+> [home](/)
 > &bull; Work in progress...
 
 ![banner](photos/banner.png)
