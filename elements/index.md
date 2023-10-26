@@ -16,4 +16,4 @@ C++ changed the game by making it possible to define a new user type together wi
 
 The realization that you need to call the same function on different types (sort() for example) resulted in generic programming techniques being incorporated.  You wrote one definition that operated on a generic type T and the compiler generated the individual implementations for each of the specific types.
 
-This is the essential ideological core of C++.  The rest is design — syntactical choices with a keen eye on performance.
+This is the essential ideological core of C++.  The rest is design — syntactical choices with a keen eye on completeness and performance.
