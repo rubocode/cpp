@@ -1,4 +1,4 @@
-> [ruboware](/) &bull; [programming](/programming)
+> [home](/) &bull;
 > &bull; Work in progress...
 
 ![banner](photos/banner.png)
