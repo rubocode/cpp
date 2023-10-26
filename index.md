@@ -3,4 +3,9 @@
 
 ![banner](photos/banner.png)
 
-## The C++ Programming Language
+## C++ Concisely
+> It is impossible for a man to learn what he thinks he already knows.  
+> **Epictetus**
+
+* [Introduction](introduction)
+* [Elements](elements)
