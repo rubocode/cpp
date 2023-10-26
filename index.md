@@ -4,8 +4,8 @@
 ![banner](photos/banner.png)
 
 ## C++ Concisely
-> It is impossible for a man to learn what he thinks he already knows.  
-> **Epictetus**
+> Great designs come from great designers, not from great design processes.  
+> **Frederick P. Brooks, Jr.**
 
 * [Introduction](introduction)
 * [Elements](elements)

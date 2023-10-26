@@ -3,8 +3,9 @@
 ![banner](/cpp/photos/banner.png)
 
 ## Introduction
-> Great designs come from great designers, not from great design processes.  
-> **Frederick P. Brooks, Jr.**
+> We must free ourselves of the hope that the sea will ever rest.
+> We must learn to sail in high winds.  
+> **Aristotle Onassis**
 
 The C Programming Language was created together with the UNIX Operating System by Ken Thompson and Dennis Ritchie at AT&T Bell Laboratories in Murray Hill, New Jersey during the late 1960s and early 1970s.
 
