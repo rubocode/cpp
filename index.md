@@ -1,9 +1,10 @@
-> [home](/programming)
+> [home](/computing)
 > &bull; Work in progress...
 
 ![banner](photos/banner.png)
 
-## C++ Concisely
+## The C++ Programming Language
+
 > The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.  
 > **Marcel Proust**
 
